@@ -41,6 +41,12 @@ h3
     font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
 }
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    color: #696969;
+    margin: 20px;
+}
 
 #passion {
     color: black;
@@ -49,4 +55,9 @@ h3
 p
 {
     color: gray;
+}
+
+#links {
+    color: black;
+    margin: 20px;
 }
