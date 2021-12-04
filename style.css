@@ -1,0 +1,52 @@
+html 
+{
+    background: #F0F0F0;
+}
+
+.sticky 
+{
+    background: black;
+    position: sticky;
+    top: 0;
+}
+
+nav 
+{
+    display: flex;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.section-heading 
+{
+    padding: 15px;
+    margin: 20px;
+    /* margin-right: 50px; */
+}
+
+h1 {
+    font-weight: normal;
+}
+h2 {
+    color: black;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+h3 
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+#passion {
+    color: black;
+    margin: 20px;
+}
+p
+{
+    color: gray;
+}
