@@ -32,7 +32,7 @@ h1 {
 }
 h2 {
     color: black;
-    margin: 20px;
+    /*margin: 20px;*/
     font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
 }
@@ -48,6 +48,9 @@ h4 {
     margin: 20px;
 }
 
+#Toptitle {
+    margin: 20px;
+}
 #passion {
     color: black;
     margin: 20px;
@@ -57,7 +60,26 @@ p
     color: gray;
 }
 
-#links {
+#resume {
     color: black;
     margin: 20px;
+}
+
+#projects {
+    margin: 20px;
+}
+
+#Pacman {
+    height: 500px;
+    width: 950px;
+}
+
+#Red-Runner {
+    height: 500px;
+    width: 950px;
+}
+
+#Infested {
+    height: 500px;
+    width: 950px;
 }
