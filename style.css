@@ -98,3 +98,11 @@ a:hover {
 .div {
     color: #484848;
 }
+
+@media (max-width: 600px)
+{
+    #Toptitle
+    {
+        color: red;
+    }
+}
