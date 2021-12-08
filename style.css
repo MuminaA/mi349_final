@@ -1,5 +1,4 @@
-html 
-{
+html {
     background: #F0F0F0;
 }
 
@@ -18,13 +17,13 @@ nav
 body {
     font-family: 'Times New Roman', Times, serif;
     color: white;
+    margin: 0;
 }
 
 .section-heading 
 {
     padding: 15px;
     margin: 20px;
-    /* margin-right: 50px; */
 }
 
 h1 {
@@ -32,7 +31,6 @@ h1 {
 }
 h2 {
     color: black;
-    /*margin: 20px;*/
     font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
 }
@@ -53,7 +51,9 @@ h4 {
 }
 #passion {
     color: black;
-    margin: 20px;
+    border-top: 1px solid #ccc;
+    /*margin: 0 auto;*/
+    text-align:center;
 }
 p
 {
@@ -63,10 +63,13 @@ p
 #resume {
     color: black;
     margin: 20px;
+    border-top: 1px solid #ccc;
 }
 
 #projects {
     margin: 20px;
+    border-top: 1px solid #ccc;
+    text-align: center;
 }
 
 #Pacman {
@@ -82,4 +85,16 @@ p
 #Infested {
     height: 500px;
     width: 950px;
+}
+
+a:hover {
+    background-color: #BEBEBE;
+}
+
+.links {
+    color: #6666FF;
+}
+
+.div {
+    color: #484848;
 }
